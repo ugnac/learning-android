@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app-aidl-client</string>
+
+    <string name="start_hello_service">启动 Hello Service</string>
+    <string name="stop_hello_service">停止 Hello Service</string>
+
+    <string name="start_service">启动 Remote Service</string>
+    <string name="stop_service">停止 Remote  Service</string>
+</resources>

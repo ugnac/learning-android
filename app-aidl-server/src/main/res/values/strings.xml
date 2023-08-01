@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">app-aidl-server</string>
+
+    <string name="start_hello_service">Start Hello Service</string>
+    <string name="stop_hello_service">Stop Hello Service</string>
+
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+
+    <string name="remote_service_started">Remote service has started</string>
+    <string name="remote_service_stopped">Remote service has stopped</string>
+    <string name="remote_service_label">Sample Remote Service</string>
+</resources>
